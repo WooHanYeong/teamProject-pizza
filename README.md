@@ -21,6 +21,7 @@
 * JSP, JavaScript, Oracle SQL, CSS, HTML
 * ERD
 * ![image](https://github.com/WooHanYeong/teamProject-pizza/assets/133833197/ec1242ed-7eec-4e72-ab22-15345efa8f3b)
+<br/><br/><br/>
 
 ## 주요기능
 * 로그인, 회원가입, 상품검색, 상품주문, 장바구니...등
@@ -42,8 +43,19 @@
 ![image](https://github.com/WooHanYeong/teamProject-pizza/assets/133833197/a91c4b22-03d0-4399-a51c-b0944ffb8860)
 * 여러가지 상품 리스트 페이지입니다.
 * 클릭하면 디테일로 이동이 가능합니다.
+ <br/><br/><br/>
+ 
+## 장바구니 , 주문 페이지
+![image](https://github.com/WooHanYeong/teamProject-pizza/assets/133833197/68b72c4a-71bf-48d9-9cff-3190da481a6a)
+* 장바구니, 주문 페이지 입니다.
+* 장바구니 페이지 주문한 상품리스트 확인이 가능하며 제품의 수량 변경, 삭제, 주문 등이 가능합니다.
+<br/><br/><br/>
 
-
+## 게시판 페이지
+![image](https://github.com/WooHanYeong/teamProject-pizza/assets/133833197/743df590-7796-4682-a17f-7aa576d6b434)
+*  게시판 페이지 입니다.
+*  공지사항, FAQ , 1대1문의 페이지가 존재합니다.
+*  admin은 모든 user의 1대1문의를 전부 다 확인할 수 있습니다.
 
 
 
