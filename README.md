@@ -33,6 +33,17 @@
 *  로그인 항목에서 회원가입, 아이디 찾기, 비밀번호 찾기 메뉴를 확인할 수 있습니다. 
 <br/><br/><br/>
 
+#### 로그인 페이지
+![image](https://github.com/WooHanYeong/teamProject-pizza/assets/133833197/0234f52b-46b3-40a1-bd4f-e03edf3b9312)
+* 로그인 항목에서 회원가입, 아이디 찾기, 비밀번호 찾기 등의 메뉴를 확인 할 수 있습니다.
+<br/><br/><br/>
+
+#### 상품 리스트 페이지
+![image](https://github.com/WooHanYeong/teamProject-pizza/assets/133833197/a91c4b22-03d0-4399-a51c-b0944ffb8860)
+* 여러가지 상품 리스트 페이지입니다.
+* 클릭하면 디테일로 이동이 가능합니다.
+
+
 
 
 
