@@ -21,3 +21,18 @@
 * JSP, JavaScript, Oracle SQL, CSS, HTML
 * ERD
 * ![image](https://github.com/WooHanYeong/teamProject-pizza/assets/133833197/ec1242ed-7eec-4e72-ab22-15345efa8f3b)
+
+## 주요기능
+* 로그인, 회원가입, 상품검색, 상품주문, 장바구니...등
+<br/><br/><br/>
+
+#### 메인페이지
+![image](https://github.com/WooHanYeong/teamProject-pizza/assets/133833197/6ed68219-1295-4499-8ac5-87ba9cb3ce13)
+*  피자주문 사이트 메인화면 페이지입니다.
+*  메인 페이지에서 가장 많이 사용하는 기능으로 이동 가능 합니다.
+*  로그인 항목에서 회원가입, 아이디 찾기, 비밀번호 찾기 메뉴를 확인할 수 있습니다. 
+<br/><br/><br/>
+
+
+
+
