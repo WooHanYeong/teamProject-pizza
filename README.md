@@ -16,3 +16,8 @@
 <br/><br/><br/>
 
 ## 개발환경 및 주요기능
+![image](https://github.com/WooHanYeong/teamProject-pizza/assets/133833197/d97d369e-d02f-4bb0-b635-5f1b4973e389)
+* Windows 11, Oracle SQL, Eclipse, Git
+* JSP, JavaScript, Oracle SQL, CSS, HTML
+* ERD
+* ![image](https://github.com/WooHanYeong/teamProject-pizza/assets/133833197/ec1242ed-7eec-4e72-ab22-15345efa8f3b)
